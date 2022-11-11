@@ -140,7 +140,7 @@ h6 {
 
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
-  height: 60px;
+  height: 80px;
 }
 
 #header .logo {
@@ -275,7 +275,7 @@ h6 {
 
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
-    left: -90%;
+    left: -0%;
   }
 
   .navbar .dropdown .dropdown:hover>ul {
